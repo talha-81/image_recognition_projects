@@ -13,7 +13,8 @@ This repository includes implementations of several image recognition tasks such
 Each project demonstrates practical applications using popular **deep learning frameworks** like:
 
 - TensorFlow  
-- PyTorch  
+- Keras
+- Flask 
 
 Whether you're just getting started or looking to deepen your knowledge, these projects provide a hands-on approach to mastering image recognition.
 
